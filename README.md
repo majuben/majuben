@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Achraf Cherraka
+# Hi, I’m Achraf Cherraka
 
 🎓 I'm a Data Science and AI engineering student at ENSAM Rabat, passionate about building intelligent systems that solve real-world problems — from automating business processes to developing machine learning pipelines and deploying web apps.
 
